@@ -1,0 +1,16 @@
+Source: wp360-webvisu
+Section: misc
+Priority: optional
+Maintainer: Overdigit <info@overdigit.com>
+Build-Depends: debhelper-compat (= 13)
+Standards-Version: 4.5.1
+#Homepage: <insert the upstream URL, if relevant>
+Rules-Requires-Root: no
+#Vcs-Git: https://salsa.debian.org/debian/wp360-packages.git
+#Vcs-Browser: https://salsa.debian.org/debian/wp360-packages
+
+Package: wp360-webvisu
+Architecture: all
+Maintainer: Overdigit <info@overdigit.com>
+Depends: ${misc:Depends}, systemd, chromium, sway
+Description: Package containing various system configuration for automatic CODESYS web visualization on the device display.
