@@ -1,3 +1,9 @@
+wp360-webvisu (1.0.1-1) bookworm; urgency=low
+
+  * Default Chromium to Wayland
+
+ -- Overdigit <info@overdigit.com>  Fri, 10 Oct 2025 17:13:01 +0200
+
 wp360-webvisu (1.0.0-1) bookworm; urgency=low
 
   * Initial release.
