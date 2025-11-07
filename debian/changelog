@@ -1,3 +1,9 @@
+wp360-webvisu (1.1.0-2) trixie; urgency=low
+
+  * Fix missing jq dependency.
+
+ -- Overdigit <info@overdigit.com>  Fri, 07 Nov 2025 18:35:01 +0100
+
 wp360-webvisu (1.1.0-1) trixie; urgency=low
 
   * Create a virtual monitor in Sway.

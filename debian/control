@@ -12,5 +12,5 @@ Rules-Requires-Root: no
 Package: wp360-webvisu
 Architecture: all
 Maintainer: Overdigit <info@overdigit.com>
-Depends: ${misc:Depends}, systemd, chromium, sway
+Depends: ${misc:Depends}, systemd, chromium, sway, jq
 Description: Package containing various system configuration for automatic CODESYS web visualization on the device display.
