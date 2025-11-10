@@ -1,3 +1,9 @@
+wp360-webvisu (1.1.1-1) trixie; urgency=low
+
+  * Delay virtual output creation to avoid race condition.
+
+ -- Overdigit <info@overdigit.com>  Mon, 10 Nov 2025 16:24:33 +0100
+
 wp360-webvisu (1.1.0-2) trixie; urgency=low
 
   * Fix missing jq dependency.
