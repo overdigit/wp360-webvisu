@@ -1,3 +1,10 @@
+wp360-webvisu (1.1.4-1) trixie; urgency=low
+
+  * Set default layout to tabbed.
+  * Unbind workspace-related shortcuts to work around missing mirroring support in wlroots.
+
+ -- Overdigit <info@overdigit.com>  Mon, 20 Apr 2026 17:00:22 +0200
+
 wp360-webvisu (1.1.3-1) trixie; urgency=low
 
   * Increase restart time to avoid incurring in systemd's wrath.
