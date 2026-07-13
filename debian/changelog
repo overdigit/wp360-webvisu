@@ -1,3 +1,9 @@
+wp360-webvisu (1.1.5-1) trixie; urgency=medium
+
+  * Run systemctl user commands as root. Necessary since CODESYS Control 4.21.
+
+ -- Overdigit <info@overdigit.com>  Mon, 13 Jul 2026 16:19:37 +0200
+
 wp360-webvisu (1.1.4-1) trixie; urgency=low
 
   * Set default layout to tabbed.
